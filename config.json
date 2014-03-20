@@ -1,0 +1,26 @@
+{
+  "locals": {
+    "url": "http://bovard.github.io",
+    "name": "Bovard's List",
+    "owner": "Bovard Tiberi",
+    "description": "Things I've (nearly) done."
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}
