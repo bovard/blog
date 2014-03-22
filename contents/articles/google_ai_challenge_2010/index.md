@@ -1,11 +1,11 @@
 ---
-title: Planet Wars!
+title: Planet Wars
 author: bovard
 date: 2010-11-01 15:00
 template: article.jade
 ---
 
-My entry to the 2010 Google AI Challenge: [Planet Wars](http://planetwars.aichallenge.org/)!
+My entry to the 2010 Google AI Challenge
 
 <span class="more"><span>
 
