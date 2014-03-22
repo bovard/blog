@@ -5,7 +5,7 @@ date: 2011-02-05 15:00
 template: article.jade
 ---
 
-My entry to Battle Code 2011
+In which I abuse inheritance. Heavily.
 
 <span class="more"><span>
 
@@ -15,7 +15,6 @@ My entry to Battle Code 2011
 Competitors design an AI to control robots to lead them to battle on the virtual battlefield!
 Each robot is running on a separate thread so communication between bots is limited.
 
-#### Code
 
 Fresh from my win in the Google AI Challenge, I recruited a team from there to head over
 and do Battle Code. Unfortunately none of them wrote a line of code.
@@ -35,9 +34,10 @@ These components were broken into 4 categories: builders, sensors, weapons and c
 You can read more about the details of the contest on the winning team's [post-mortem blog post](http://blog.stevearc.com/2011/12/17/battlecode-postmortem.html).
 But lets just say the winning strategy involved heavy chassis with a teleport component, a hammer and a mountain of armor.
 
+#### Code
+
 Being a fresh graduate of a Java-based undergraduate program I did the first
 thing that came to mind: misuse the #*%& out of inheritance.
-
 
 What happened next was a Daily WTF-worthy inheritance tree:
 
@@ -48,12 +48,15 @@ RobotSystem
       ^-WeaponBuilderSensorRobotSystem
 ```
 
+Not only does a WeaponBuilderSensorRobotSystem never build anything but also sometimes they don't have a sensor!
+As the competition entered its final week I learned just how painful major refactors
+are when the function you are calling could be in one of four files (or all four)! You can check out the code on my [github](https://github.com/bovard/robo-rumble).
+
 Walking away from this I learned first-hand the perils of ignoring the `composition over inheritance` mantra.
 
 #### Results
 
 I placed about the middle of the pack overall but I was the 2nd place non-MIT team.
-
 
 ###### Written 03/22/2014
 

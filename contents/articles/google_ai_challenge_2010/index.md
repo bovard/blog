@@ -5,7 +5,7 @@ date: 2010-11-01 15:00
 template: article.jade
 ---
 
-My entry to the 2010 Google AI Challenge
+In which I discover python and kick butt.
 
 <span class="more"><span>
 
