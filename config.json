@@ -3,7 +3,7 @@
     "url": "http://bovard.github.io",
     "name": "Bovard's List",
     "owner": "Bovard Tiberi",
-    "description": "Things I've (nearly) done."
+    "description": "Projects I've (nearly) finished."
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -21,6 +21,6 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 3
+    "perPage": 10
   }
 }
