@@ -18,3 +18,4 @@ After not getting around to writing an entry for 2012 I was a bit ambivalent abo
 participating in 2013 but after it was clear that I had a good team that was actually
 going to contribute, I was in!
 
+This year's challenge involved a rock, paper, scissors-like strategies: nuke, rush and econ.
