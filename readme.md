@@ -5,11 +5,10 @@ On things I actually finish I'll put an entry about them here and put them on my
 
 ### TODO: Posts
 
-1. 2013 BattleCode Entry
-2. Archon
-3. 2014 BattleCode Entry
-4. BattleCode Runner
-5. RGB
+1. Archon
+2. 2014 BattleCode Entry
+3. BattleCode Runner
+4. RGB
 
 ### Things I should really finish and put here
 
