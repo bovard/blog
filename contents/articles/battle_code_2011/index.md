@@ -1,5 +1,5 @@
 ---
-title: Battle Code 2011
+title: BattleCode 2011
 author: bovard
 date: 2011-02-05 15:00
 template: article.jade
