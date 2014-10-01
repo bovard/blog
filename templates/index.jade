@@ -12,15 +12,3 @@ block content
             a(href=article.url)= article.title
           p
             !{ typogr(article.intro).typogrify() }
-
-block prepend footer
-  div.nav
-    if prevPage
-      a(href=prevPage.url) « Newer
-    else
-      a(href='/archive.html') « Archives
-    if nextPage
-      a(href=nextPage.url) Next page »
-
-
-
