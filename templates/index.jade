@@ -4,16 +4,14 @@ block content
   include author
   each article in articles
     article.article.intro
-      header
-        p.date
-          span= moment.utc(article.date).format('DD. MMMM YYYY')
-        h2
-          a(href=article.url)= article.title
       section.content
-        | !{ typogr(article.intro).typogrify() }
-        if article.hasMore
-          p.more
-            a(href=article.url) more
+        p
+          p.date
+            span= moment.utc(article.date).format('DD.MM.YYYY')
+          p.title
+            a(href=article.url)= article.title
+          p
+            !{ typogr(article.intro).typogrify() }
 
 block prepend footer
   div.nav
