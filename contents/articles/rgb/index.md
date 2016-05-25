@@ -78,11 +78,9 @@ RGB was a success (by 7DRL standards)! We were even featured as the [7DRL of the
 
 > "RGB is a browser roguelike with an interesting multi-dimensional mechanic. Red Green and Blue all operate as separate dimensions of the same dungeon. After the first three levels, where switching is mostly useless and/or instant death, the mechanic becomes very interesting! You can only attach enemies in your same dimension, but you can use other dimensions to escape. The level colors are a bit over-bearing but the dimension switching is cool!" - Yeti
 
-Over the years RGB has seen surprisingly more play than I expected. I'm not sure who was playing everyday in the summer of 2015, but whoever you are, I salute you! We've had players from 48 states (North Dakota and Alaska, looking at you) and on average people give up after just over a minute.
+Over the years RGB has seen surprisingly more play than I expected. I'm not sure who was playing everyday in the summer of 2015, but whoever you are, I salute you! We've had players from 48 states (North Dakota and Alaska, looking at you) and there have been close to 4000 sessions in the two years since.
 
 ![Analytics](analytics.png)
-
-Overall it felt great to actually finish a game, and I hope I'll be participating in the 7DRL in the future!
 
 ###### Written 05/24/2016
 
