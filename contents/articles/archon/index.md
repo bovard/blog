@@ -2,7 +2,7 @@
 title: Archon
 author: bovard
 date: 2014-01-14 15:00
-template: article.jade
+template: article.pug
 ---
 
 In which I create my first npm package

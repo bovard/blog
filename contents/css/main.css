@@ -224,13 +224,22 @@ footer .copy, footer .copy a {
   width: 100%;
 }
 
-.more, .date {
+.more {
   font-family: 'Merriweather', serif;
   font-variant: small-caps;
   text-transform: lowercase;
   font-weight: 400;
   text-rendering: auto;
   letter-spacing: 1px;
+}
+
+.date {
+  font-family: 'Roboto Mono', monospace;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  font-weight: 400;
+  text-rendering: auto;
+  letter-spacing: -2px;
 }
 
 /* archive */

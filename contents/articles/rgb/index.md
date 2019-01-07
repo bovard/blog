@@ -2,7 +2,7 @@
 title: RGB
 author: bovard
 date: 2014-03-20 15:00
-template: article.jade
+template: article.pug
 ---
 
 In which I finish my first game

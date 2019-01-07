@@ -2,7 +2,7 @@
 title: BattleCode 2013
 author: bovard
 date: 2013-02-01 15:00
-template: article.jade
+template: article.pug
 ---
 
 In which we win great victories.

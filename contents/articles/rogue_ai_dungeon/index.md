@@ -2,7 +2,7 @@
 title: Rogue AI Dungeon
 author: bovard
 date: 2016-03-21 15:00
-template: article.jade
+template: article.pug
 ---
 
 In which I create an AI challenge

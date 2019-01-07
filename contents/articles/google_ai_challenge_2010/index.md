@@ -2,7 +2,7 @@
 title: Planet Wars
 author: bovard
 date: 2010-11-01 15:00
-template: article.jade
+template: article.pug
 ---
 
 In which I discover python and kick butt.

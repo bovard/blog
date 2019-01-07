@@ -2,7 +2,7 @@
 title: BattleCode 2011
 author: bovard
 date: 2011-02-05 15:00
-template: article.jade
+template: article.pug
 ---
 
 In which I abuse inheritance. Heavily.
