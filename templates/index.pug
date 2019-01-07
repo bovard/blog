@@ -11,8 +11,9 @@ block content
             span= moment.utc(article.date).format('DD. MMMM YYYY')
           p.title
             a(href=article.url)= article.title
-          if article.intro.length > 0
-            != typogr(article.intro).typogrify()
+          p
+            if article.intro.length > 0
+              != typogr(article.intro).typogrify()
 
 block prepend footer
   div.nav
