@@ -1,9 +1,9 @@
 {
   "locals": {
-    "url": "http://bovard.github.io",
+    "url": "https://bovard.github.io",
     "name": "Bovard's List",
-    "owner": "Bovard Tiberi",
-    "description": "Projects I've (nearly) finished."
+    "owner": "Bovard Doerschuk-Tiberi",
+    "description": "Projects I've (nearly) finished"
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -13,7 +13,7 @@
     "_": "underscore",
     "typogr": "typogr"
   },
-  "jade": {
+  "pug": {
     "pretty": true
   },
   "markdown": {
