@@ -239,7 +239,7 @@ footer .copy, footer .copy a {
   text-transform: lowercase;
   font-weight: 400;
   text-rendering: auto;
-  letter-spacing: 1px;
+  letter-spacing: -2px;
 }
 
 /* archive */
