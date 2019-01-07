@@ -234,12 +234,12 @@ footer .copy, footer .copy a {
 }
 
 .date {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'VT323', monospace;
   font-variant: small-caps;
   text-transform: lowercase;
   font-weight: 400;
   text-rendering: auto;
-  letter-spacing: -2px;
+  letter-spacing: 0px;
 }
 
 /* archive */
