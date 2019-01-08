@@ -27,6 +27,7 @@ This dampened my spirits but I was ready to push forward!
   ![Dummy](dummy2.png) | ![Factory](factory2.png) | ![Recycler](recycler2.png) 
 
 ###### A selection of buildings and units from 2012
+<br/>
 
 This year's unique challenge was modular robots. To start with you chose a chassis
 (heavy, medium, light, or flying). By default each chassis could sense obstacles 1 square in
