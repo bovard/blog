@@ -20,11 +20,13 @@ Fresh from my win in the Google AI Challenge, I recruited a team from there to h
 and do Battle Code. Unfortunately none of them wrote a line of code.
 This dampened my spirits but I was ready to push forward!
 
-|  |  |
-| ----- | ----- | -----
-| ![Flying](flying2.png)  | ![Light](light1.png) | ![Medium](medium2.png) | ![Turret](turret2.png) | ![Armory](armory2.png) |  ![Building](building2.png) |  ![Dummy](dummy2.png) | ![Factory](factory2.png) | ![Recycler](recycler2.png)
+|  |  | |
+| --- | --- | --- 
+ ![Flying](flying2.png)  | ![Light](light1.png) | ![Medium](medium2.png) 
+ ![Turret](turret2.png) | ![Armory](armory2.png) |  ![Building](building2.png) 
+  ![Dummy](dummy2.png) | ![Factory](factory2.png) | ![Recycler](recycler2.png) 
 
-######A selection of buildings and units from 2012
+###### A selection of buildings and units from 2012
 
 This year's unique challenge was modular robots. To start with you chose a chassis
 (heavy, medium, light, or flying). By default each chassis could sense obstacles 1 square in
