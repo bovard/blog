@@ -89,7 +89,7 @@ hr {
 
 .header h1 {
   font-family: 'VT323', monospace;
-  font-size: 3em;
+  font-size: 3.5em;
   text-align: center;
   font-weight: 700;
   margin: 0;
@@ -186,7 +186,7 @@ footer .copy, footer .copy a {
   text-align: center;
   font-weight: 400;
   margin: 0.8em 0;
-  font-size: 1.4em;
+  font-size: 2em;
 }
 
 .article header h2 a {
